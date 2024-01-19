@@ -19,7 +19,7 @@ body,
     align-items: center;
     flex-direction: column;
     margin: 0 auto;
-    border: 3px solid #314655;
+    border: 3px solid rgb(137, 201, 249);
     width: 400px;
     height: 400px;
     text-align: center;
@@ -37,7 +37,7 @@ body,
     padding: 25px;
     text-align: center;
     font-size: 40px;
-    background-color: rgb(99, 175, 233);
+    background-color: rgb(137, 201, 249);
 }
 
 .option:hover {
